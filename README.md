@@ -4,14 +4,14 @@ This project performs Exploratory Data Analysis (EDA) on the Wine Quality datase
 It includes data cleaning, visualization, and correlation analysis to understand the factors affecting wine quality.
 
 Tools :
-  Python
-  Pandas
-  Matplotlib
-  Seaborn
+  Python,
+  Pandas,
+  Matplotlib,
+  Seaborn.
 
 Files :
-  1.0-WinequalityEDA.ipynb
-  WineQT.csv
+  1.0-WinequalityEDA.ipynb,
+  WineQT.csv.
 
- Author
+ Author:
 Misba Anjum R
